@@ -14,6 +14,9 @@ It will include the projects, code and documentation from both my Individual Pro
 
 The purpose of this portfolio is to demonstrate my personal achievements of this semester, which are necessary to fulfill the learning outcomes.
 
+During this semester I work together with [Teun](https://github.com/TeunMos) on the Individual Project.
+
+
 ## Learning Outcomes
 
 [Click here](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/LearningOutcomes.md) for an overview of all learning outcomes for this semester.
