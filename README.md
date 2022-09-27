@@ -23,3 +23,5 @@ During this semester I work together with [Teun](https://github.com/TeunMos) on 
 
 
 ## Proof of Learning Outcome
+| Explanation | Type | Learning Outcome | Link |
+|:------------|:-----|:-----------------|:----:|
