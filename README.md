@@ -1,10 +1,11 @@
+
 # Portfolio
 *By Lukas Jansen*
 ## Table of Contents
-- [Portfolio](#Portfolio)
-  - [Table of Contents](#Table-of-Contents)
-- [Intro](#Intro)
-- [Learning Outcomes](#Learning-Outcomes)
+- [Portfolio](#portfolio)
+  - [Table of Contents](#table-of-tontents)
+- [Intro](#intro)
+- [Projects](#projects)
 
 
 ## Intro
@@ -16,12 +17,20 @@ The purpose of this portfolio is to demonstrate my personal achievements of this
 
 During this semester I work together with [Teun](https://github.com/TeunMos) on the Individual Project.
 
+## Projects
+- [Individual Project](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen)
+- [Group Project](https://github.com/Modus-1)
 
-## Learning Outcomes
 
+## Proof of Learning Outcomes
 [Click here](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/LearningOutcomes.md) for an overview of all learning outcomes for this semester.
-
-
-## Proof of Learning Outcome
-| Explanation | Type | Learning Outcome | Link |
-|:------------|:-----|:-----------------|:----:|
+| Learning Outcome | Proof |
+|:-----------------|:-----:|
+|Web Application| 
+|Software quality|
+|Agile Method|
+|CI/CD|
+|Cultural differences and ethics|
+|Requirements and design|
+|Business processes|
+|Professional|
