@@ -26,11 +26,11 @@ During this semester I work together with [Teun](https://github.com/TeunMos) on 
 [Click here](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/LearningOutcomes.md) for an overview of all learning outcomes for this semester.
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
-|Web Application| 
-|Software quality|
-|Agile Method|
-|CI/CD|
-|Cultural differences and ethics|
-|Requirements and design|
-|Business processes|
-|Professional|
+|Web Application| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/web-application.md)
+|Software quality| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/software-quality.md)
+|Agile Method| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/agile-method.md)
+|CI/CD| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/CI-CD.md)
+|Cultural differences and ethics| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/cultural-differences-and-ethics.md)
+|Requirements and design| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/requirements-and-design.md)
+|Business processes| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/business-process.md)
+|Professional| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/professional.md)
