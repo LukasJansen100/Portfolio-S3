@@ -14,6 +14,8 @@ Other techniques that I'm planning to use in the future of my projects are:
 - Moderated User Testing
 - Unmoderated User Testing
 
+You can find more information about the front-end design [here](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation/wiki/Documentation-Front-End#designs)
+
 ## Full-stack
 ### What is full-stack developement?
 [w3schools](https://www.w3schools.com/whatis/whatis_fullstack.asp) has the following description of a full stack developer:
