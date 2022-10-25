@@ -1,4 +1,5 @@
 # Software Quality
+*You use software tooling and methodology that continuously monitors and improve the software quality during software development.*
 
 ## Code Reviews
 >Code review (sometimes referred to as peer review) is a software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code, and they do so after implementation or as an interruption of implementation. At least one of the persons must not be the code's author. The persons performing the checking, excluding the author, are called "reviewers".
