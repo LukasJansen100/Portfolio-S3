@@ -1,4 +1,5 @@
-# You design and build user-friendly, full-stack web applications.
+# Web application
+*You design and build user-friendly, full-stack web applications.*
 
 ## User Friendly
 Something that is user friendly can be described as easy to use, learn and understand.
