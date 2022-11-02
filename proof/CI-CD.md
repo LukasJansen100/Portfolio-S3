@@ -18,7 +18,9 @@ Because we don't wany any problems on the main branch, the CI pipeline made with
 Currently we haven't implemented any automated testing, once we start making unit tests, we also want the CI pipeline to run all the tests, then if all are successful, you can merge your branch into main.
 
 ## CD
-To continuously deliver our projects we use [Docker](https://docs.docker.com/get-started/). After a successful merge into main, the CD pipeline creates a docker image, and publishes it on [Dockerhub](https://hub.docker.com/).
+To continuously deliver our projects we use [Docker](https://docs.docker.com/get-started/). After a successful merge into main, the CD pipeline creates a docker image from the main branch, and publishes it on [Dockerhub](https://hub.docker.com/).
 
+Other people can easily pull our docker images from dockerhub.
+With docker compose, you can easily pull all the docker images, and simultaneously run them. you can find more information about docker compose on our [main page](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen).
 
 # Implementation Group Project
