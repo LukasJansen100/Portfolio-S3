@@ -35,3 +35,13 @@ And at last we have the **Sprint Retrospective**, during this event, the scrum t
 ### Scrum Artifacts
 We have a **Product Backlog**, which contains all the features that are needed to create and improve the product.
 This product backlog is continuously changing as the project goes on. Then during the sprint planning, we estimate the amount of workload the team can take, and put items from the product backlog, in the **Sprint Backlog**, accordingly.
+
+## Scrum tooling
+Using the right tools can make your work a lot easier. At the beginning of our project we had considered different tools like Trello, and GitHub Projects.
+Eventually we chose to use Jira, as it is widely used by professional teams, and it also allows us to integrate our tasks with our GitHub Repositories.
+
+The backlog contains the user stories, and tasks that come with it.
+![image](https://user-images.githubusercontent.com/93530655/199503396-a66be089-2e1c-4bf9-b485-842a1835d26f.png)
+
+The sprint planning gives an overview of all tasks that have to be done for each user story.
+![image](https://user-images.githubusercontent.com/93530655/199503815-d1008587-89c7-4278-8b25-eb1c63f9e266.png)
