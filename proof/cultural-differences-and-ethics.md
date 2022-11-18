@@ -9,8 +9,6 @@ This is why we put a lot of effort in our Group Project on communicating with th
 We know our product owners like to be kept informed about the status of our project, and they don't like suprises during the Sprint-Reviews.
 In order to keep them informed we always send them an email before upcoming Sprint-Reviews about the progress we've made, and what they can expect.
 
-
-
 ## Ethical Programming Guidelines
 ### What are ethics?
 > moral principles that govern a person's behaviour or the conducting of an activity.
