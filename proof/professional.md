@@ -1,2 +1,14 @@
 # Professionality
 *You act in a professional manner during software development and learning.*
+
+## Professionality towards the stakeholders
+To show our professionality to the stakeholders of our project, we try to focus a lot on good communication.
+Besides the communication we have during the sprint reviews, or in between sprints, we also try to keep the stakeholders up to date on the state of our project before any sprint review. This way the stakeholders know what to expect during the sprint reviews, and won't have any suprises about our progress.
+
+When we plan to meet (online) with our Product Owners, we always plan in a meeting on Teams, this way they will have our meetings in their schedules.
+
+
+## Professionality within the group
+In order to work professionally within our group, we have [set up a code of conduct](https://github.com/Modus-1/documentation/blob/main/Documents/Code%20of%20Conduct.md) and also a [group contract](https://docs.google.com/document/d/1O4WbgDgG3jcjnhj1aFvIqjnz9wh1FpvAaHZ_3k6U_-4/edit?usp=sharing).
+The code of conduct is a series of rules, to make sure we can work together as smoothly as possible regarding our software developement.
+The group contract, is a series of rules, in which we have described our roles within the team, and also some rules about working together.
