@@ -8,7 +8,6 @@
 
 
 # Implementation Individual Project
-In our individual project, [Teun](https://github.com/TeunMos) and I store the code of our projects in our [repositories](https://github.com/orgs/IPS3-DB04-Teun-Mos-Lukas-Jansen/repositories) on github. 
 
 ## CI
 To Continuously Integrate new code into our project, we use different branches. When we want to add a new feature, or fix a problem, we create a branch (more information about branches [here](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)). Once we have finished the new feature or fixed the problem, we can merge the branch into the "Main Branch".
