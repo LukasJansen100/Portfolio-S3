@@ -19,3 +19,5 @@ In the group project unit testing plays an important role. On our projects we st
 
 ### Unit Testing in Individual Project
 We have made Unit Tests on the User-Preferences-API, these unit tests, test whether the API calls return the correct information, we do this by mocking our database with [MongoMock](https://github.com/mongomock/mongomock), and we test using the [PyTest framework](https://docs.pytest.org/).
+
+Unit tests are automatically run in the [build and test workflow](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/User-Preferences-API/blob/main/.github/workflows/build-and-test.yml) of the User-Preferences-API
