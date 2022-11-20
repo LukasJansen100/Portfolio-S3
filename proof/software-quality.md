@@ -14,4 +14,8 @@ For the individual project it's a bit harder to do code reviews because Teun and
 >In computer programming, unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use.
 [Wikipedia on Unit testing](https://en.wikipedia.org/wiki/Unit_testing)
 
+### Unit Testing in Group Project
 In the group project unit testing plays an important role. On our projects we strive for a high code coverage, this means that for the parts of our code that we think are vulnerable, should be tested. The Unit Tests also play a role in the CI/CD of the projects. Whenever new changes are made on branches and pushed to the repository, the CI/CD runs all the unit tests.
+
+### Unit Testing in Individual Project
+We have made Unit Tests on the User-Preferences-API, these unit tests, test whether the API calls return the correct information, we do this by mocking our database with [MongoMock](https://github.com/mongomock/mongomock), and we test using the [PyTest framework](https://docs.pytest.org/).
