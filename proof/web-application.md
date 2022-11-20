@@ -5,11 +5,13 @@
 Something that is user friendly can be described as easy to use, learn and understand.
 For most (web)applications this is a very important aspect to the user experience (UX), as you generally want your users to have an easy time while using your product.
 
-To ensure the user friendliness in my projects, I have used the following techniques:
+To ensure the user friendliness in my projects, I have used the following techniques so far:
 - Peer feedback
 - Taking inspiration and ideas from other applications
 
 Peer feedback is great because other students usually see things that you didn't see yourself. Since I am working together in both the Individual and Group Projects peer feedback is happening all the time.
+
+Taking inspiration from other applications is also important when designing our UI/UX. In most cases it's better to ~steal~ take inspiration from other applications, then to make a very bad UI/UX yourself.
 
 You can find more information about the front-end design [here](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation/wiki/Documentation-Front-End#designs)
 
