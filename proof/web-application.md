@@ -33,6 +33,7 @@ These include Frontend and Backend projects.
 #### Individual Project
 - [Dashboard Front-end (ReactJS)](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Dashboard-Front-End)
 - [User-Preferences API (Python FastAPI)](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/User-Preferences-API)
+- [Integrations-API](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Integration-API)
 
 #### Group Project
 - [Customer-FrontEnd (ReactJS)](https://github.com/Modus-1/customer-frontend)
