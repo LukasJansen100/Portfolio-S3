@@ -11,10 +11,6 @@ To ensure the user friendliness in my projects, I have used the following techni
 
 Peer feedback is great because other students usually see things that you didn't see yourself. Since I am working together in both the Individual and Group Projects peer feedback is happening all the time.
 
-Other techniques that I'm planning to use in the future of my projects are:
-- Moderated User Testing
-- Unmoderated User Testing
-
 You can find more information about the front-end design [here](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation/wiki/Documentation-Front-End#designs)
 
 ## Full-stack
