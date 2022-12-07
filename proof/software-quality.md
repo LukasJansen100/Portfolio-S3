@@ -30,3 +30,16 @@ Integration tests use actual components that the app uses in production, require
 In the individual project we have made integration tests, to test the integration between the "Integration-API" and the Frontend.
 The integration tests are setup to test the actual endpoints which the frontend calls. To test these endpoints, we've mocked the data-access-layer and the authentication needed to call the endpoints.
 [Click here](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Integration-API/tree/main/Integration-API/Integration-API.Integration-tests) to view the integration tests we've made on the "Integration-API".
+
+## Important Questions
+### What do you consider to be software of high quality?
+Software is of high quality when it:
+- Serves the purpose it was made for.
+- Has no bugs or unintended side affects.
+- Is well tested where and when it's needed.
+- Is maintainable
+- Is understandable or/and has good documentation
+
+
+
+
