@@ -13,7 +13,7 @@ Peer feedback is great because other students usually see things that you didn't
 
 Taking inspiration from other applications is also important when designing our UI/UX. In most cases it's better to ~steal ideas~ take inspiration from other applications, then to make a very bad UI/UX yourself.
 
-You can find more information about the front-end design [here](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation/wiki/Documentation-Front-End#designs)
+You can find more information about the front-end design [here](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation/blob/main/frontend-documentation.md)
 
 ## Full-stack
 ### What is full-stack developement?
@@ -36,6 +36,8 @@ These include Frontend and Backend projects.
 - [Integrations-API (ASP.NET Web API)](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Integration-API)
 
 #### Group Project
-- [Customer-FrontEnd (ReactJS)](https://github.com/Modus-1/customer-frontend)
+- [Customer-Front-end (ReactJS)](https://github.com/Modus-1/customer-frontend)
+- [Staff-Front-end (ReactJS)](https://github.com/Modus-1/staff-frontend)
+- [Gateway (ExpressJS)](https://github.com/Modus-1/gateway)
 - [Menu API (ASP.NET Web API using Entity Framework)](https://github.com/Modus-1/menu-api)
 - [Order API (ASP.NET Web API)](https://github.com/Modus-1/order-api)
