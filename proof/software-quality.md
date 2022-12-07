@@ -21,3 +21,12 @@ In the group project unit testing plays an important role. On our projects we st
 We have made Unit Tests on the User-Preferences-API, these unit tests, test whether the API calls return the correct information, we do this by mocking our database with [MongoMock](https://github.com/mongomock/mongomock), and we test using the [PyTest framework](https://docs.pytest.org/).
 
 Unit tests are automatically run in the [build and test workflow](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/User-Preferences-API/blob/main/.github/workflows/build-and-test.yml) of the User-Preferences-API
+
+## Integration Testing
+Integration testing is a way to test if the different modules in your application work together as intended. It occurs after unit testing and before system testing.
+Integration tests use actual components that the app uses in production, requires more code and data processing and takes longer to run. Therefore if you have behaviour that can be tested with unit tests or integration tests, always choose unit tests. ([ASP.NET introduction to integration tests](https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-7.0))
+
+### Integration Testing in individual project
+In the individual project we have made integration tests, to test the integration between the "Integration-API" and the Frontend.
+The integration tests are setup to test the actual endpoints which the frontend calls. To test these endpoints, we've mocked the data-access-layer and the authentication needed to call the endpoints.
+[Click here](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Integration-API/tree/main/Integration-API/Integration-API.Integration-tests) to view the integration tests we've made on the "Integration-API".
