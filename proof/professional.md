@@ -12,3 +12,8 @@ When we plan to meet (online) with our Product Owners, we always plan in a meeti
 In order to work professionally within our group, we have [set up a code of conduct](https://github.com/Modus-1/documentation/blob/main/Documents/Code%20of%20Conduct.md) and also a [group contract](https://docs.google.com/document/d/1O4WbgDgG3jcjnhj1aFvIqjnz9wh1FpvAaHZ_3k6U_-4/edit?usp=sharing).
 The code of conduct is a series of rules, to make sure we can work together as smoothly as possible regarding our software developement.
 The group contract, is a series of rules, in which we have described our roles within the team, and also some rules about working together.
+
+## Feedback
+Getting feedback about the proccess you've made is important to keep on the right track.
+For this reason I try to get enough feedback from teachers, and also other students in my class.
+I keep track of the feedback talks with my teachers through Feedpulse (a tool to track multiple feedback moments over time). After I've gotten feedback from a teacher, I write some notes on what we talked about, then the teacher can comment and give a smiley based on the progress I've made.
