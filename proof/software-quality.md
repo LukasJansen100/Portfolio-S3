@@ -38,7 +38,8 @@ Software is of high quality when it:
 - Has no bugs or unintended side affects.
 - Is well tested where and when it's needed.
 - Is maintainable
-- Is understandable or/and has good documentation
+- Is readable/understandable (with help of comments)
+- Code has documentation where necessary
 
 
 
