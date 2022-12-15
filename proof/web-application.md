@@ -38,6 +38,7 @@ These include Frontend and Backend projects.
 #### Group Project
 - [Customer-Front-end (ReactJS)](https://github.com/Modus-1/customer-frontend)
 - [Staff-Front-end (ReactJS)](https://github.com/Modus-1/staff-frontend)
+- [Manager-Front-end (ReactJS)](https://github.com/Modus-1/manager-frontend)
 - [Gateway (ExpressJS)](https://github.com/Modus-1/gateway)
 - [Menu API (ASP.NET Web API using Entity Framework)](https://github.com/Modus-1/menu-api)
 - [Order API (ASP.NET Web API)](https://github.com/Modus-1/order-api)
@@ -54,7 +55,7 @@ A disadventage is that frameworks do have limitations, altough they are highly c
 Frameworks can come with a lot of features that are not necessary for your application, this can slow down performance. 
 
 ### What are some recent popular JavaScript frameworks?
-Populair Javascript frameworks are Node, Vue, Angular, Ember and React
+Some populair Javascript frameworks are Node, Vue, Angular, Ember and React
 
 ### What were the specific reasons for choosing your JavaScript framework?
 In our case ReactJS felt like a good framework (individual and group project) because it's a very populair framework, and has a big community around it.
