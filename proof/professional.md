@@ -13,6 +13,8 @@ In order to work professionally within our group, we have [set up a code of cond
 The code of conduct is a series of rules, to make sure we can work together as smoothly as possible regarding our software developement.
 The group contract, is a series of rules, in which we have described our roles within the team, and also some rules about working together.
 
+The reason we've set up these documents is so we can work together better, and everyone knows what to expect from each other.
+
 ## Feedback
 Getting feedback about the proccess you've made is important to keep on the right track.
 For this reason I try to get enough feedback from teachers, and also other students in my class.
