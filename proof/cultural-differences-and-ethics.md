@@ -15,6 +15,9 @@ In order to keep them informed we always send them an email before upcoming Spri
 The Product Owners have also told us they value honesty, because they know that sometimes you can get stuck with a problem, and it's best to be open about it, so the product owners can help find a solution. This makes sense, because if you keep a lot of things from the product owners, they will find out some day, and not be happy about it.
 That's why during the Sprint Reviews we are honest/clear about the progress we've made, even if we made less progress than we were supposed to make.
 
+### Group culture
+We also have a certain culture within our Group Project. Within our group we have our own ways of communicating, and have certain expectations of each other. To maintain more clarity on these expectations of each other, we set up a few rules for everyone like the code of conduct and a group contract, you can read more about those [here](https://github.com/LukasJansen100/Portfolio-S3/blob/main/proof/professional.md#professionality-within-the-group).
+
 ## Ethical Programming Guidelines
 ### What are ethics?
 > moral principles that govern a person's behaviour or the conducting of an activity.
