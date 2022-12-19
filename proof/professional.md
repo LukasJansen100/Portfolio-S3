@@ -17,10 +17,3 @@ The group contract, is a series of rules, in which we have described our roles w
 Getting feedback about the proccess you've made is important to keep on the right track.
 For this reason I try to get enough feedback from teachers, and also other students in my class.
 I keep track of the feedback talks with my teachers through Feedpulse (a tool to track multiple feedback moments over time). After I've gotten feedback from a teacher, I write some notes on what we talked about, then the teacher can comment and give a smiley based on the progress I've made.
-
-
-<details>
-
-</details
-  
-<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
