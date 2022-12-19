@@ -3,9 +3,11 @@
 *By Lukas Jansen*
 ## Table of Contents
 - [Portfolio](#portfolio)
-  - [Table of Contents](#table-of-tontents)
+  - [Table of Contents](#table-of-contents)
 - [Intro](#intro)
-- [Projects](#projects)
+- [Project Organizations](#project-organizations)
+- [Documentations](#documentations)
+- [Proof of Learning Outcomes](#proof-of-learning-outcomes)
 
 
 ## Intro
@@ -17,9 +19,13 @@ The purpose of this portfolio is to demonstrate my personal achievements of this
 
 During this semester I work together with [Teun](https://github.com/TeunMos) on the Individual Project.
 
-## Projects
+## Project Organizations
 - [Individual Project](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen)
 - [Group Project](https://github.com/Modus-1)
+
+## Documentations
+- [Individual Project](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation)
+- [Group Project](https://github.com/Modus-1/documentation)
 
 
 ## Proof of Learning Outcomes
