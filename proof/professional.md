@@ -18,4 +18,16 @@ Getting feedback about the proccess you've made is important to keep on the righ
 For this reason I try to get enough feedback from teachers, and also other students in my class.
 I keep track of the feedback talks with my teachers through Feedpulse (a tool to track multiple feedback moments over time). After I've gotten feedback from a teacher, I write some notes on what we talked about, then the teacher can comment and give a smiley based on the progress I've made.
 
->! asdf
+
+
+<details>
+  <summary>Example: Feedback notes (Dutch)</summary>
+ 
+![image](https://user-images.githubusercontent.com/93530655/208377726-25b46e27-bda0-4db4-9a91-59e2ca7dc34b.png)
+</details>
+
+<details>
+  <summary>Example: Feedback progress</summary>
+  
+  ![image](https://user-images.githubusercontent.com/93530655/208377823-4dde39cc-de45-4fc1-8bb6-8c29141771ff.png)
+</details>
