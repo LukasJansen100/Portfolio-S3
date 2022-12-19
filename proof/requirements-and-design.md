@@ -11,6 +11,8 @@ In the group project we have created our own [architectural design](https://gith
 
 Also to design and build our front-end, we use Figma to make designs on our user interface. This way we are all on the same page when implementing new features. And this way we can also discuss our ideas on building the application with the Product Owners. 
 
+In the Individual Project we have also made an [architectural design](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation/blob/main/C4-Model.md).
+
 ## Test Techniques
 To make sure we are holding ourselves to the requirements of the product owners, we try to consistently get feedback on the product we are building.
 A part of getting this feedback comes from user acceptance testing, this means we let people use our product, and get feedback from them about the User Experience.
