@@ -25,6 +25,5 @@ With docker compose, you can easily pull all the docker images, and simultaneous
 
 # Implementation Group Project
 The group project also has a relatively similar CI/CD.
-However instead of pushing our docker images to DockerHub, we want our Docker Images to be deployed on a server.
 
-[Judah](https://github.com/judahlit) our Git Master, is responsible for the CI/CD in the group project.
+[Judah](https://github.com/judahlit) our Git Master, and has set up the CI/CD in the group project.
