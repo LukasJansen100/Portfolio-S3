@@ -40,3 +40,12 @@ During this semester I work together with [Teun](https://github.com/TeunMos) on 
 |Requirements and design| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/requirements-and-design.md)
 |Business processes| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/business-process.md)
 |Professional| [🔗](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/proof/professional.md)
+
+## Personal Learning Outcome Rating
+This is a personal  reflection on the learning outcomes for this semester.
+Under here is a table where I give myself a rating on each of the learning outcomes and a clarification.
+
+|Learning Outcome|Rating|Clarification|
+|:---------------|:-----|:--------|
+|Web Application|Advanced|**Userfriendly**: To make our application as userfriendly as possible we've looked at a lot of other applications to see how they manage their UX. Another thing we did to improve user friendliness was getting feedback from other people. <br/> <br/> **Fullstack**: We've designed and built our application with a React front-end, and 2 back-end services (Userpreferences-API and Integrations-API), our project uses external api's and services from google for authentication, and open weather map and bron fontys for external data|
+|Software Quality|Proficient|**Tooling and Methodology**: In the individual project we've made Unit tests and Integration tests, to test new features from the userstories. <br/> We've build a CI/CD, which automatically builds and tests when new things are pushed to a branch on our repository. When features are merged with the main branch, a docker image is pushed to Dockerhub. <br/> To apply static code analysis we use SonarCloud. We apply (required) code reviews before branches can be merged to main. 
