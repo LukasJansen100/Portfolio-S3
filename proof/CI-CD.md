@@ -135,9 +135,10 @@ jobs:
   ```
 </details>
 
+### Deployment research
+You can find a research paper about the deployment of Monkodash [over here](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation/blob/main/ResearchDocuments.md).
 
 # Implementation Group Project
 The group project also has a relatively similar CI/CD.
-Including automated building, and testing. Static Code Analysis by SonarCloud. Pushing merges to main to [Dockerhub](https://hub.docker.com/r/judahlit/modus-1/tags)
+Including automated building, and testing. Static Code Analysis by SonarCloud. Pushing docker images from merges into main to [Dockerhub](https://hub.docker.com/r/judahlit/modus-1/tags)
 
-[Judah](https://github.com/judahlit) our Git Master, and has set up the CI/CD in the group project.
