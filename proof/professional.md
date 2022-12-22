@@ -16,6 +16,13 @@ The group contract, is a series of rules, in which we have described our roles w
 
 The reason we've set up these documents is so we can work together better, and everyone knows what to expect from each other.
 
+
+## Research papers
+During this semester I've worked on 2 research documents together with Teun.
+You can view the [research papers here](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation/blob/main/ResearchDocuments.md).
+
+Some feedback we've gotten from Leon (IP teacher) was that it's important to keep research papers written in the third person. Doing this makes the research paper more professional.
+
 ## Feedback
 Getting feedback about the proccess you've made is important to keep on the right track.
 For this reason I try to get enough feedback from teachers, and also other students in my class.
