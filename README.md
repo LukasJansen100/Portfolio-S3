@@ -27,6 +27,8 @@ During this semester I work together with [Teun](https://github.com/TeunMos) on 
 - [Individual Project](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation)
 - [Group Project](https://github.com/Modus-1/documentation)
 
+## Research Documents
+[Click here to view research documents](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation/blob/main/ResearchDocuments.md)
 
 ## Proof of Learning Outcomes
 [Click here](https://github.com/LukasJansen100/Portfolio-IPS3/blob/main/LearningOutcomes.md) for an overview of all learning outcomes for this semester.
