@@ -21,7 +21,7 @@ The reason we've set up these documents is so we can work together better, and e
 During this semester I've worked on 2 research documents together with Teun.
 You can view the [research papers here](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation/blob/main/ResearchDocuments.md).
 
-Some feedback we've gotten from Leon (IP teacher) was that it's important to keep research papers written in the third person. Doing this makes the research paper more professional.
+Some feedback we've gotten from Leon (IP teacher) was that it's important to keep research papers written in the third person. Doing this makes the research paper more professional. If you compare the research paper about deployment with that of OAuth you can see the improvements we've made.
 
 ## Feedback
 Getting feedback about the proccess you've made is important to keep on the right track.
