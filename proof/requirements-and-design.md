@@ -13,6 +13,9 @@ Also to design and build our front-end, we use Figma to make designs on our user
 
 In the Individual Project we have also made an [architectural design](https://github.com/IPS3-DB04-Teun-Mos-Lukas-Jansen/Documentation/blob/main/C4-Model.md).
 
+An important note about the designs is that they are always dynamic.
+For example, the designs of our group project have evolved a lot since the first designs, in the first designs we didn't make use of any gateway, and all requests from the front-end went straight to the APIs, later we came up with the idea of using a gateway in between them, which could solve a lot of security issues. For this reason we had to update our designs.
+
 ## Test Techniques
 To make sure we are holding ourselves to the requirements of the product owners, we try to consistently get feedback on the product we are building.
 A part of getting this feedback comes from user acceptance testing, this means we let people use our product, and get feedback from them about the User Experience.
